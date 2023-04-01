@@ -1,9 +1,9 @@
 # College Website
-### Welcome to the new official website project of IIIT-Vadodara. 
+### Welcome to the new official website project of VCET-Ongole. 
 
-[![Join the chat at https://gitter.im/iiitv/college_website](https://badges.gitter.im/iiitv/college_website.svg)](https://gitter.im/iiitv/college_website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/VCET/college_website](https://badges.gitter.im/VCET/college_website.svg)](https://gitter.im/iiitv/college_website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-We are now live as [official institute website](http://iiitvadodara.ac.in/).
+We are now live as [official institute website](http://VCET Ongole.ac.in/).
 
 **NOTE**: This repository is no longer related to the live college website, therefore the requests made here for content addition/modifiation are ineffective.
 
@@ -25,7 +25,7 @@ We are now live as [official institute website](http://iiitvadodara.ac.in/).
         * TCS
 * Academics
     * Bachelor of Technology
-        * Computer Science and Engineering
+        * Mechanical Engineering
         * Information Technology
     * Master of Technology
         * Computer Science and Engineering
